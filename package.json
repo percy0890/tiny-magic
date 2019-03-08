@@ -1,6 +1,6 @@
 {
 	"name": "@iamphenomenal/tiny-magic",
-	"version": "2.0.0",
+	"version": "2.0.2",
 	"description": "Return new array with unique elements",
 	"license": "MIT",
 	"repository": "percy0890/tiny-magic",
